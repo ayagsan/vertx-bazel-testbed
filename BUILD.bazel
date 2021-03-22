@@ -87,3 +87,5 @@ container_image(
         ":service_deploy.jar",
     ],
 )
+
+exports_files(["src/main/java/util/Constant.java"])
