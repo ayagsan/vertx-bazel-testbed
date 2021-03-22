@@ -88,4 +88,4 @@ container_image(
     ],
 )
 
-exports_files(["src/main/java/**/**.java"])
+exports_files(["src/main/java/**/*.java"])
